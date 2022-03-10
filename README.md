@@ -1,7 +1,8 @@
-## technologies ##
-### spring cloud microservices ###
-### maven ###
-### h2 database ###
-### lombok ###
-### spring data/jpa ###
-### spring-resttemplate ###
+## Technologies ##
+### Spring Cloud Microservices ###
+### Maven ###
+### H2 Database ###
+### Lombok ###
+### Spring Data/Jpa ###
+### Spring-Rest Template ###
+### Spring-Eureka ###
