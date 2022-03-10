@@ -7,12 +7,12 @@
 ### Circuitbreaker ###
 <img src="https://github.com/OzgurAkinci/spring-cloud-microservices/blob/main/git-assets/circuitbreaker.png" width="80%">
 
-### saveDepartment ###
+### Save Department ###
 <img src="https://github.com/OzgurAkinci/spring-cloud-microservices/blob/main/git-assets/department-save.png" width="80%">
 
-### saveUser ###
+### Save User ###
 <img src="https://github.com/OzgurAkinci/spring-cloud-microservices/blob/main/git-assets/user-save.png" width="80%">
 
-### findUser ###
+### Find User ###
 <img src="https://github.com/OzgurAkinci/spring-cloud-microservices/blob/main/git-assets/user-find.png" width="80%">
 
