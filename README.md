@@ -1,5 +1,3 @@
-# spring-cloud-microservices
-
 ## technologies ##
 ### spring cloud microservices ###
 ### maven ###
