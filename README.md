@@ -5,6 +5,6 @@
 ### Lombok ###
 ### Spring Data/Jpa ###
 ### Spring-Rest Template ###
-### Spring-Eureka ###
+### Spring-Netflix-Eureka ###
 ### Spring Cloud Gateway ###
 ### Spring Circuitbreaker / Resilience4j / Resilience4j-Micrometer ###
