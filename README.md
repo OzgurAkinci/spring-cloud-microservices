@@ -4,6 +4,9 @@
 ### Eureka ###
 ![Screenshot](https://github.com/OzgurAkinci/spring-cloud-microservices/blob/main/git-assets/eureka.png?raw=true)
 
+### Circuitbreaker ###
+![Screenshot](https://github.com/OzgurAkinci/spring-cloud-microservices/blob/main/git-assets/circuitbreaker.png?raw=true)
+
 ### saveDepartment ###
 ![Screenshot](https://github.com/OzgurAkinci/spring-cloud-microservices/blob/main/git-assets/department-save.png?raw=true)
 
