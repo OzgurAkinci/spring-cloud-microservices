@@ -2,6 +2,7 @@
 #### Spring Cloud Microservices, Maven, H2 Database, Lombok, Spring Data/Jpa, Spring-Rest Template, Spring-Netflix-Eureka, Spring Cloud Gateway, Spring Circuitbreaker / Resilience4j / Resilience4j-Micrometer ####
 
 ## List of technologies to be integrated ##
+#### Keyclock/Authorization, SpringBoot Admin Server(Dashboard) ####
 
 ### Eureka (http://localhost:8761/) ###
 <img src="https://github.com/OzgurAkinci/spring-cloud-microservices/blob/main/git-assets/eureka.png" width="80%">
