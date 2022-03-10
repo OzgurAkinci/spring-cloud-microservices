@@ -2,7 +2,7 @@
 #### Spring Cloud Microservices, Maven, H2 Database, Lombok, Spring Data/Jpa, Spring-Rest Template, Spring-Netflix-Eureka, Spring Cloud Gateway, Spring Circuitbreaker / Resilience4j / Resilience4j-Micrometer ####
 
 ### Eureka1 ###
-<img src="https://github.com/OzgurAkinci/spring-cloud-microservices/blob/main/git-assets/eureka.png" width="400" height="200">
+<img src="https://github.com/OzgurAkinci/spring-cloud-microservices/blob/main/git-assets/eureka.png" width="80%">
 
 ### Eureka ###
 ![Screenshot](https://github.com/OzgurAkinci/spring-cloud-microservices/blob/main/git-assets/eureka.png?raw=true)
