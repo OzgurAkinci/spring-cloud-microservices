@@ -1,4 +1,4 @@
-package com.app.cloud.gateway;
+package com.app.cloud.gateway.config;
 
 import java.time.Duration;
 
