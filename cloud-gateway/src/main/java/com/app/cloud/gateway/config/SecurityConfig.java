@@ -1,4 +1,4 @@
-package com.app.cloud.gateway;
+package com.app.cloud.gateway.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
