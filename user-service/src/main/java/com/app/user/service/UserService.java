@@ -27,7 +27,12 @@ public class UserService {
     public ResponseTemplateVO getUserWithDepartment(Long userId){
         ResponseTemplateVO vo = new ResponseTemplateVO();
         User user = userRepository.findByUserId(userId);
-        Department department = restTemplate.getForObject("http://DEPARTMENT-SERVICE/department/find/" + user.getDepartmentId(), Department.class);
+        Department department = null;
+        try {
+            department = restTemplate.getForObject("http://DEPARTMENT-SERVICE/department/find/" + user.getDepartmentId(), Department.class);
+        }catch (Exception e){
+            log.error("UserDepartment not found.");
+        }
         vo.setUser(user);
         vo.setDepartment(department);
         return vo;

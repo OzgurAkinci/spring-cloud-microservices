@@ -25,6 +25,20 @@ spring:
               args:
                 name: DEPARTMENT-SERVICE
                 fallbackUri: forward:/departmentServiceFallBack
+  security:
+    oauth2:
+      client:
+        provider:
+          my-keycloak-provider:
+            issuer-uri: http://localhost:8080/auth/realms/My-Realm
+        registration:
+          keycloak-spring-gateway-client:
+            provider: my-keycloak-provider
+            client-id: spring-gateway-application
+            client-secret: bMuD9JAalwU5w5FJKDkkrgcdxLtoIibL
+            authorization-grant-type: authorization_code
+            redirect-uri: "{baseUrl}/login/oauth2/code/keycloak"
+
 
 management:
   endpoints:
